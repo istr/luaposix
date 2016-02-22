@@ -7,7 +7,7 @@ description = {
   summary = "Lua bindings for POSIX",
 }
 source = {
-  url = "git://github.com/luaposix/luaposix.git",
+  url = "git://github.com/istr/luaposix.git",
 }
 dependencies = {
   "lua >= 5.1, < 5.4",
